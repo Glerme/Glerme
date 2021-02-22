@@ -5,7 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/glhermme)](https://twitter.com/glhermme)
 
 <br>
--  💻 [Portfólio] - (https://glerme.github.io) 💻 - Working on it.
+
+-  💻 [Website](https://glerme.github.io) -
 
 ### Sobre mim
 Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python, e em busca de meu primeiro estágio na área.
