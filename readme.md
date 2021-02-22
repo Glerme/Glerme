@@ -6,7 +6,7 @@
 
 <br>
 
--  💻 [Website](https://glerme.github.io) -
+💻 [Portfólio](https://glerme.github.io) 
 
 ### Sobre mim
 Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python, e em busca de meu primeiro estágio na área.
