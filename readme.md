@@ -9,5 +9,4 @@
 💻 [Portfólio](https://glerme.github.io) 
 
 ### Sobre mim
-Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python, e em busca de meu primeiro estágio na área.
-
+Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python, atualmente estagiando na AllCom Sistemas
