@@ -11,6 +11,6 @@
 ### Sobre mim
 Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python, atualmente estagiando na AllCom Sistemas
 
-# Contador de Visitas
+### Contador de Visitas
 
 ![Visitor Count](https://profile-counter.glitch.me/Glerme/count.svg)
