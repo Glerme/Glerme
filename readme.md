@@ -13,4 +13,4 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
 
 
 
-![Contador de Visitantes] (https://profile-counter.glitch.me/Glerme/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Glerme/count.svg)
