@@ -32,6 +32,14 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
 - [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5514998363749) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/glhermme) 
 
 
+### Status
+
+[![Status Badge](https://github-readme-stats.vercel.app/api?username=Glerme&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)]() [![Languages Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=Glerme&layout=compact&langs_count=16&theme=material-palenight)]() 
+
+
+
+
+
 ### Contador de Visitantes
 
 ![Visitor Count](https://profile-counter.glitch.me/Glerme/count.svg)
