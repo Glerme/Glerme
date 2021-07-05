@@ -43,7 +43,7 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
 <br>
 
 
-### Contador de Visitantes
+## Contador de Visitantes
 ![Visitor Count](https://profile-counter.glitch.me/Glerme/count.svg)
 
 ### Volte sempre! :D 
