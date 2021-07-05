@@ -37,9 +37,9 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
 [![Status Badge](https://github-readme-stats.vercel.app/api?username=Glerme&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)]() [![Languages Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=Glerme&layout=compact&langs_count=16&theme=material-palenight)]() 
 
 
-
-
-
 ### Contador de Visitantes
-
 ![Visitor Count](https://profile-counter.glitch.me/Glerme/count.svg)
+
+###Volte sempre! :D 
+
+
