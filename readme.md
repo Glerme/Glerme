@@ -1,7 +1,6 @@
 # Olá, me chamo Guilherme! :D
 
 <br>
-<br>
 
 💻 [Portfólio](https://glerme.github.io) 
 
