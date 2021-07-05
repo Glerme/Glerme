@@ -22,7 +22,7 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
 
 <br>
 
-### Tecnologias que estou estudando:
+## Tecnologias que estou estudando:
 
 - [![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 - [![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]() [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
@@ -30,17 +30,18 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
 
 <br>
 
-### Contato
+## Status
+
+[![Status Badge](https://github-readme-stats.vercel.app/api?username=Glerme&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)]() [![Languages Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=Glerme&layout=compact&langs_count=16&theme=material-palenight)]() 
+
+<br>
+
+## Contato
 - [![Github Badge](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Glerme) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glerme/)
 - [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5514998363749) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/glhermme) 
 
 <br>
 
-### Status
-
-[![Status Badge](https://github-readme-stats.vercel.app/api?username=Glerme&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)]() [![Languages Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=Glerme&layout=compact&langs_count=16&theme=material-palenight)]() 
-
-<br>
 
 ### Contador de Visitantes
 ![Visitor Count](https://profile-counter.glitch.me/Glerme/count.svg)
