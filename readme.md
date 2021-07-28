@@ -2,10 +2,11 @@
 
 <br>
 
-<span> - 💻 <a href="https://glerme.github.io">Portfólio</a> </span>
-<span align="center">
+- 💻 <a href="https://glerme.github.io">Portfólio</a>
+
+<p align="center">
  <img src="https://komarev.com/ghpvc/?username=Glerme&label=Profile%20views&color=blue&style=flat-square" alt="Glerme" />
-</span> 
+</p> 
 
 
 ## Sobre mim
