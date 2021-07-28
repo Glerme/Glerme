@@ -4,8 +4,8 @@
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=Glerme&label=Profile%20views&color=blue&style=flat-square" alt="Glerme" />
-</p>
-- 💻 <a href="https://glerme.github.io">Portfólio</a> 
+</p> <span> - 💻 <a href="https://glerme.github.io">Portfólio</a> </span>
+
 
 ## Sobre mim
 Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python, atualmente estagiando na AllCom Sistemas.
