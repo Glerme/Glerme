@@ -3,7 +3,7 @@
 <br>
 
 <span> - 💻 <a href="https://glerme.github.io">Portfólio</a> </span>
-<span align="left">
+<span align="center">
  <img src="https://komarev.com/ghpvc/?username=Glerme&label=Profile%20views&color=blue&style=flat-square" alt="Glerme" />
 </span> 
 
