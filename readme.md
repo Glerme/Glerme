@@ -35,7 +35,11 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
 
 ## Status
 
-[![Status Badge](https://github-readme-stats.vercel.app/api?username=Glerme&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)]() [![Languages Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=Glerme&layout=compact&langs_count=16&theme=material-palenight)]() 
+ <div>
+  <a href="https://github.com/Glerme">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glerme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glerme&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <br>
 
