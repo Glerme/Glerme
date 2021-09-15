@@ -5,7 +5,7 @@
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=Glerme&label=Profile%20views&color=blue&style=flat-square" alt="Glerme" />
 </p> 
-- 💻 <a href="https://glerme.github.io">Portfólio</a>
+- 💻 <a href="https://www.glerme.dev/">glerme.dev</a>
 
 
 ## Sobre mim
