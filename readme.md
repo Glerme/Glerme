@@ -48,7 +48,5 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
 
 <br>
  
-![Snake animation](https://github.com/Glerme/Glerme/blob/output/github-contribution-grid-snake.svg)
-
 
 ### Volte sempre! :D 
