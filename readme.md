@@ -2,12 +2,14 @@
 
 <br>
 
-- 💻 Portfólio: <a href="https://www.glerme.dev/" target="_blank">glerme.dev</a>
+💻 Portfólio: <a href="https://www.glerme.dev/" target="_blank">glerme.dev</a>
 
 ## Sobre mim
 
 Tenho 21 anos e atualmente estou no terceiro ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python. Atuo como dev Front End e atualmente
 estou estudando fullstack.
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <br>
 
@@ -45,7 +47,7 @@ estou estudando fullstack.
 
 ## Contato
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Glerme) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glerme/) [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5514998363749)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Glerme) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glerme/)
 
 <br>
 
