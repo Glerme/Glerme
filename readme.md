@@ -9,7 +9,8 @@
 
 ## Sobre mim
 
-Tenho 21 anos e atualmente estou no terceiro ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python.
+Tenho 21 anos e atualmente estou no terceiro ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python. Atuo como dev Front End e atualmente
+estou estudando fullstack.
 
 <br>
 
