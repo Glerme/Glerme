@@ -3,6 +3,7 @@
 <br>
 
 💻 Portfólio: <a href="https://www.glerme.dev/" target="_blank">glerme.dev</a>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glerme/)
 
 ## Sobre mim
 
@@ -41,10 +42,5 @@ estou estudando fullstack.
 
 <br>
 
-## Contato
-
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Glerme) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glerme/)
-
-<br>
 
 ### Volte sempre! :D
