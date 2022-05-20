@@ -9,7 +9,7 @@
 
 ## Sobre mim
 
-Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python.
+Tenho 21 anos e atualmente estou no terceiro ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python.
 
 <br>
 
