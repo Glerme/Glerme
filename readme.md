@@ -2,7 +2,7 @@
 
 <br>
 
-💻 Portfólio: <a href="https://www.glerme.dev/" target="_blank">glerme.dev</a>
+💻 Portfólio: <a href="https://www.glerme.dev/" target="_blank">glerme.dev</a><br>
 📖 Linkedin: <a href="https://www.linkedin.com/in/glerme/" target="_blank">Guilherme Felipe</a>
 
 <br>
