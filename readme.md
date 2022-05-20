@@ -2,13 +2,15 @@
 
 <br>
 
-💻 Portfólio: <a href="https://www.glerme.dev/" target="_blank">glerme.dev</a>
+💻 Portfólio: <a href="https://www.glerme.dev/" target="_blank">glerme.dev</a><br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glerme/)
 
 ## Sobre mim
 
 Tenho 21 anos e atualmente estou no terceiro ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python. Atuo como dev Front End e atualmente
 estou estudando fullstack.
+
+## Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="Next JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="React JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
