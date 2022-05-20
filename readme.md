@@ -2,8 +2,10 @@
 
 <br>
 
-📖 Linkedin: <a href="https://www.linkedin.com/in/glerme/" target="_blank">Guilherme Felipe</a><br>
-💻 Portfólio: <a href="https://www.glerme.dev/" target="_blank">https://www.glerme.dev/</a>
+https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glerme/)<br>
+[![Portfólio Badge]([(https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.glerme.dev/)
 
 
 ## Sobre mim
