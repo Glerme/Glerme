@@ -2,8 +2,8 @@
 
 <br>
 
-📖 Linkedin: <a href="https://www.linkedin.com/in/glerme/" target="_blank">Guilherme Felipe</a>
-💻 Portfólio: <a href="https://www.glerme.dev/" target="_blank">https://www.glerme.dev/</a><br>
+📖 Linkedin: <a href="https://www.linkedin.com/in/glerme/" target="_blank">Guilherme Felipe</a><br>
+💻 Portfólio: <a href="https://www.glerme.dev/" target="_blank">https://www.glerme.dev/</a>
 
 
 ## Sobre mim
