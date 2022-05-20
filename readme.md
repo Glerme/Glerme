@@ -2,10 +2,7 @@
 
 <br>
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=Glerme&label=Profile%20views&color=blue&style=flat-square" alt="Glerme" />
-</p> 
-- 💻 <a href="https://www.glerme.dev/" target="_blank">glerme.dev</a>
+- 💻 Portfólio: <a href="https://www.glerme.dev/" target="_blank">glerme.dev</a>
 
 ## Sobre mim
 
@@ -14,7 +11,7 @@ estou estudando fullstack.
 
 <br>
 
-## Tecnologias que já utilizo:
+## Tecnologias:
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Next JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
