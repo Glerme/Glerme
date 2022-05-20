@@ -10,7 +10,6 @@
 Tenho 21 anos e atualmente estou no terceiro ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python. Atuo como dev Front End e atualmente
 estou estudando fullstack.
 
-<br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Next JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="React JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
