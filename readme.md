@@ -11,9 +11,6 @@ estou estudando fullstack.
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<br>
-
-## Tecnologias:
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Next JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -31,7 +28,6 @@ estou estudando fullstack.
 </div>
 
 <br>
-
 
 ## Status
 
