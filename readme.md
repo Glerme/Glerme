@@ -3,10 +3,12 @@
 [![Portfólio Badge](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.glerme.dev/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glerme/)
 
+
 ## Sobre mim
 
-Tenho 21 anos e atualmente estou no terceiro ano de ciências da computação na UNIP/Bauru. Apaixonado por Javascript e Python. Atuo como dev Front End e atualmente
-estou estudando Back End.
+Bacharel em Ciências da Computação formado em 2023. Atualmente trabalho com as stacks de Front End, com foco em React, React Native, NextJS, EXPO, etc. 
+Também atuo com Python, NodeJS, PostgreSQL, MongoDB.
+
 
 ## Tecnologias
 <div style="display: inline_block">
@@ -29,6 +31,7 @@ estou estudando Back End.
 <br>
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 
 
 ### Volte sempre! :D
