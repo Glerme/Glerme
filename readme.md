@@ -1,16 +1,15 @@
-# Olá, me chamo Guilherme! :D
+# Hello, I'm Guilherme! :D
 
-[![Portfólio Badge](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.glerme.dev/)
+[![Portfólio Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.glerme.dev/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glerme/)
 
+## About me
 
-## Sobre mim
+Bachelor of Computer Science, graduated in 2023.  
+Currently working with Front End stacks, focusing on React, React Native, NextJS, EXPO, TailwindCSS, SASS, etc.  
+I also work with Python, NodeJS, PostgreSQL, and MongoDB.
 
-Bacharel em Ciências da Computação formado em 2023. Atualmente trabalho com as stacks de Front End, com foco em React, React Native, NextJS, EXPO, TailwindCSS, SASS, etc. 
-Também atuo com Python, NodeJS, PostgreSQL, MongoDB.
-
-
-## Tecnologias
+## Technologies
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="Javascript"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="Typescript"  />
@@ -28,6 +27,4 @@ Também atuo com Python, NodeJS, PostgreSQL, MongoDB.
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-
-
-### Volte sempre! :D
+### Thanks for visiting! :D
