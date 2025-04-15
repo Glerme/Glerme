@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Bacharel em Ciências da Computação formado em 2023. Atualmente trabalho com as stacks de Front End, com foco em React, React Native, NextJS, EXPO, etc. 
+Bacharel em Ciências da Computação formado em 2023. Atualmente trabalho com as stacks de Front End, com foco em React, React Native, NextJS, EXPO, TailwindCSS, SASS e etc. 
 Também atuo com Python, NodeJS, PostgreSQL, MongoDB.
 
 
@@ -21,11 +21,9 @@ Também atuo com Python, NodeJS, PostgreSQL, MongoDB.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="Nodejs"  /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52"  alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="Docker"  />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
 </div>
 
 <br>
