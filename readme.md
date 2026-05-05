@@ -8,7 +8,7 @@ Currently working with Front End stacks, focusing on React, React Native, NextJS
 I also work with Python, NodeJS, PostgreSQL, and MongoDB.
 
 ## Technologies
-<div style="display: flex">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="Javascript"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="Typescript"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React"  />
